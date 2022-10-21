@@ -1,0 +1,4 @@
+bycrypt for password hashing(hash,compare)
+dotenv for credentials hiding
+jwt token(jsonwebtoken):-to check  the user who is checking about me or other page is the same who login by providing unique id(sign,)
+cookie parser:-  to send cookie from frontend to backend
